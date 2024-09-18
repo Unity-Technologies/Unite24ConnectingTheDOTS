@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/Main.uss?fileID=7433441132597879392&amp;guid=d25ada4435d945a4781e3c7405f04568&amp;type=3#Main" />
+    <ui:VisualElement class="buy-slot">
+        <ui:Button enable-rich-text="false" class="buy-slot" />
+        <ui:Label text="000c" enable-rich-text="false" class="buy-slot" />
+    </ui:VisualElement>
+</ui:UXML>

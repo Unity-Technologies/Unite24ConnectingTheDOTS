@@ -1,0 +1,45 @@
+.buy-slot {
+    flex-grow: 1;
+}
+
+.buy-slot .unity-button {
+    width: 80px;
+    height: 80px;
+    background-image: url('project://database/Packages/com.unity.entities/Editor%20Default%20Resources/icons/dark/Archetype/Archetype@2x.png?fileID=2800000&guid=84ea9d5414135e7428961d0e3609c7e7&type=3#Archetype@2x');
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    
+    padding-left: 0;
+    padding-right: 10px;
+    padding-top: 0;
+    padding-bottom: 0;
+    flex-direction: column-reverse;
+    align-self: center;
+    justify-content: flex-start;
+}
+
+.unity-text-element {
+    font-size: 36px;
+    -unity-font-style: bold;
+    color: rgb(253, 253, 253);
+    -unity-text-align: lower-center;
+    
+    -unity-text-outline-color: rgba(125, 5, 123, 0.93);
+    text-shadow: 4px 4px 0 rgba(0, 0, 0, 0.49);
+    -unity-text-outline-width: 2px;
+}
+
+.buy-slot .unity-label {
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: rgba(57, 197, 106, 0.2);
+}
